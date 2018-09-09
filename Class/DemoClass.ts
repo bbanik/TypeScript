@@ -16,4 +16,4 @@ class manager extends employee{
     constructor(name: string){
         super(name);
     }
-}
+} 
